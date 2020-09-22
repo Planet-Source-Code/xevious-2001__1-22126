@@ -1,0 +1,7 @@
+GameEngine = 44, 44, 602, 451, , 88, 88, 581, 495, C
+SpriteBas = 22, 22, 515, 429, 
+Position = 88, 88, 688, 444, 
+ISprite = 66, 66, 666, 422, 
+cBackground = 0, 0, 0, 0, C
+cSprite = 0, 0, 0, 0, C
+RectRegion = 0, 0, 0, 0, C

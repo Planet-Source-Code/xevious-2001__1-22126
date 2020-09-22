@@ -1,0 +1,7 @@
+ctlGameEngine = 88, 88, 688, 444, Z, 44, 44, 644, 400, C
+cBackground = 66, 66, 731, 422, 
+cSprite = 22, 22, 687, 378, 
+frmGameEngineTest = 132, 132, 732, 488, , 110, 110, 710, 466, C
+mMain = 132, 132, 732, 488, 
+RectRegion = 110, 110, 775, 466, 
+Position = 0, 0, 0, 0, C
